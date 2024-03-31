@@ -1,0 +1,22 @@
+{
+  "name": "cws-custom-hooks",
+  "version": "1.0.0",
+  "description": "Custom hooks by Saif Ur Rehman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-Tech04/cws-custom-hooks.git"
+  },
+  "keywords": [
+    "cws-custom-hooks"
+  ],
+  "author": "Saif Ur Rehman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-Tech04/cws-custom-hooks/issues"
+  },
+  "homepage": "https://github.com/S-Tech04/cws-custom-hooks#readme"
+}
